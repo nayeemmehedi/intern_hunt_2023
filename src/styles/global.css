@@ -1,0 +1,9 @@
+@import "./login.css";
+@import "./popularIntern.css";
+@import "./wholeWorld.css";
+
+
+
+body {
+    font-family: Besley, Arial, sans-serif;
+  }
